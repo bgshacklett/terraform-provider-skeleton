@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/hashicorp/terraform/plugin"
-	"github.com/pyToshka/terraform-provider-skeleton/skeleton"
+	"github.com/bgshacklett/terraform-provider-skeleton/skeleton"
+	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
 )
 
 func main() {
